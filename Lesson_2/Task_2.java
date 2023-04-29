@@ -37,7 +37,7 @@ public class Task_2 {
                     }
                 }
             }
-            System.out.printf("Студент " + name + " получил " + grade + " по предмету " + object + "\n");
+            System.out.printf("Студент " + name + " получил(а) " + grade + " по предмету " + object + "\n");
         }
         file.close();
     }
